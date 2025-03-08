@@ -1,12 +1,12 @@
 [
   {
-    "name": "恋爱",
-    "url": "https://love.bsgun.cn",
-    "icon": "fa fa-heart"
+    "name": "统计",
+    "url": "https://umami.sky-cat.top",
+    "icon": "fa fa-clipboard"
   },
   {
     "name": "博客",
-    "url": "https://blog.bsgun.cn",
+    "url": "https://blog.sky-cat.top",
     "icon": "fa fa-blog"
   },
   {
@@ -20,13 +20,13 @@
     "icon": "fa fa-image"
   },
   {
-    "name": "封面",
-    "url": "https://cover.ruom.top",
-    "icon": "fa fa-panorama"
+    "name": "友圈",
+    "url": "https://frc.zhu-di.us.kg",
+    "icon": "fa fa-mug-hot"
   },
   {
     "name": "监测",
-    "url": "https://status.bsgun.cn",
+    "url": "https://status.sky-cat.top",
     "icon": "fa fa-chart-line"
   }
 ]
